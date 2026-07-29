@@ -72,7 +72,7 @@ Where:
 ├── dashboard/
 │   └── dashboard.html                # Standalone interactive Plotly HTML dashboard
 └── report/
-    └── ev_project_onepager.docx      # Project executive summary brief
+    └── ev_project_onepager.pdf      # Project executive summary brief
 ```[cite: 1]
 
 ---
