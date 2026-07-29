@@ -2,6 +2,8 @@
 
 A data analysis project identifying which Indian states most urgently need investment in EV charging infrastructure, built using SQL (MySQL) and Python.
 
+🔗 **[View the live interactive dashboard](https://sachinrao2005.github.io/ev-charging-infra-gap-analysis/dashboard.html)**
+
 ## Problem
 
 India's EV adoption is growing fast, but charging infrastructure investment hasn't kept pace evenly across states. This project quantifies exactly where the gap between EV adoption and charging access is widest, and ranks states by investment priority.
